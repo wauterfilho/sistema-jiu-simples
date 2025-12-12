@@ -7,7 +7,7 @@ public class ColaboradorX  {
 	
 	 
 	
-	
+	//testeGit
 	
 	
 	public ColaboradorX(PessoaX pessoaFunci, String funcao ) {
@@ -28,3 +28,4 @@ public class ColaboradorX  {
 	
 
 }
+
